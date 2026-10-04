@@ -1,3 +1,5 @@
+PariTool guides
+
 Date and Time Calculators: How to Count Days, Weeks, Months and Years Without Mistakes
 Most of us have counted days on our fingers at some point. A notice period, a refund deadline, a visa stay, a project sprint. It feels simple until February shows up, or a month has 31 days instead of 30, and your answer is off by one. That one day can mean a missed deadline.
 
@@ -55,18 +57,18 @@ Long Stretches
 Weeks From Today: Shortcuts for Sprints, Courses and Training Plans
 Weeks are the natural unit for anything with a weekly rhythm. These pages give you the end date in one click.
 
-2 weeks from today: 14 days. A standard short sprint or two-week notice.
-3 weeks from today: 21 days. Good for short projects and quick turnarounds.
-4 weeks from today: 28 days. Four weeks is a little shorter than most calendar months, so do not treat it as "one month".
-5 weeks from today: 35 days. Useful for monthly cycles that run slightly long.
-6 weeks from today: 42 days. A common length for training plans and short courses.
-8 weeks from today: 56 days. Popular for fitness programs and certification courses.
-9 weeks from today: 63 days. A little over two months.
-10 weeks from today: 70 days. Fits term blocks and bootcamps.
-12 weeks from today: 84 days. A favorite for quarterly goal cycles.
-14 weeks from today: 98 days. Handy for semester planning.
-16 weeks from today: 112 days. Often used for exam preparation schedules.
-20 weeks from today: 140 days. A longer program or a mid-year milestone.
+2 weeks from today 14 days. A standard short sprint or two-week notice.
+3 weeks from today 21 days. Good for short projects and quick turnarounds.
+4 weeks from today 28 days. Four weeks is a little shorter than most calendar months, so do not treat it as "one month".
+5 weeks from today 35 days. Useful for monthly cycles that run slightly long.
+6 weeks from today 42 days. A common length for training plans and short courses.
+8 weeks from today 56 days. Popular for fitness programs and certification courses.
+9 weeks from today 63 days. A little over two months.
+10 weeks from today 70 days. Fits term blocks and bootcamps.
+12 weeks from today 84 days. A favorite for quarterly goal cycles.
+14 weeks from today 98 days. Handy for semester planning.
+16 weeks from today 112 days. Often used for exam preparation schedules.
+20 weeks from today 140 days. A longer program or a mid-year milestone.
 Months From Today: Shortcuts for Leases, Renewals and Plans
 Month-based dates are where most people slip, because month lengths change. These pages handle that for you.
 
